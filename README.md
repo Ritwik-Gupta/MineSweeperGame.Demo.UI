@@ -18,6 +18,8 @@ In order to run the app on local environment, you'll have to run both the Angula
 8. Follow the instructoons on the page to start the game
 9. Yay! your MineSweeper game is ready to be played!
 
-
+# Notes
+1. Angular is used the frontend framework for this project due its versatile and robust achitecture.
+2. Clean code and  common Design patterns have been followed wherever neccessary.
 
 
