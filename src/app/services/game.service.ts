@@ -1,12 +1,13 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class GameService {
 
-  base_URL = "https://localhost:7266/api/MineSweeperGame/"
+  base_URL = environment.apiUrl + "/MineSweeperGame/"
 
   constructor(private httpClient: HttpClient) { }
 
