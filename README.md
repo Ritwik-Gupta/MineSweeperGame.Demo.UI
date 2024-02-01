@@ -18,6 +18,14 @@ In order to run the app on local environment, you'll have to run both the Angula
 8. Follow the instructoons on the page to start the game
 9. Yay! your MineSweeper game is ready to be played!
 
+# How to play
+1. Go to url https://minesweeperui.web.app/
+2. Select the grid size and the number of mines and click on 'Start Game' buttton.
+3. 
+4. Click on the 'Play' button to load the grids.
+5. Click on the grids to reveal the grids, if clicked on a skull then the game is over.
+6. Enjoy your game.
+
 # Notes
 1. Angular is used the frontend framework for this project due its versatile and robust achitecture.
 2. Clean code and  common Design patterns have been followed wherever neccessary.
