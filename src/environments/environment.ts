@@ -1,4 +1,4 @@
 export const environment = {
-  production: true,
-  apiUrl: "https://minesweeperdemoapi.azurewebsites.net/api"
+  production: false,
+  apiUrl: "http://localhost:5049/api"
 }
