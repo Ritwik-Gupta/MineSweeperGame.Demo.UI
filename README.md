@@ -21,7 +21,7 @@ The Angular app is deployed on firebase - https://minesweeperui.web.app/ , you c
 8. Follow the instructoons on the page to start the game
 9. Yay! your MineSweeper game is ready to be played!
 
-# How to play
+# How to play (Live server demo)
 1. Go to url https://minesweeperui.web.app/
 2. Select the grid size and the number of mines and click on 'Start Game' buttton.
 ![HomePage](https://github.com/Ritwik-Gupta/MineSweeperGame.Demo.UI/blob/main/src/assets/static/images-readme/home1.png?raw=true)
