@@ -25,9 +25,11 @@ The Angular app is deployed on firebase - https://minesweeperui.web.app/ , you c
 1. Go to url https://minesweeperui.web.app/
 2. Select the grid size and the number of mines and click on 'Start Game' buttton.
 ![HomePage](https://github.com/Ritwik-Gupta/MineSweeperGame.Demo.UI/blob/main/src/assets/static/images-readme/home1.png?raw=true)
-4. Click on the 'Play' button to load the grids.
-5. Click on the grids to reveal the grids, if clicked on a skull then the game is over.
-6. Enjoy your game.
+4. Click on the 'Play' button to load the grids (this may take around 60-90 secs to load as the service is hosted on a Free tier)
+![Play1](https://github.com/Ritwik-Gupta/MineSweeperGame.Demo.UI/blob/main/src/assets/static/images-readme/play2.png?raw=true)
+6. Click on the grids to reveal the grids, if clicked on a skull then the game is over.
+![Play2](https://github.com/Ritwik-Gupta/MineSweeperGame.Demo.UI/blob/main/src/assets/static/images-readme/play3.png?raw=true)
+8. Enjoy your game.
 
 # Notes
 1. Angular is used the frontend framework for this project due its versatile and robust achitecture.
